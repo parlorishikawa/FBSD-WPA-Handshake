@@ -1,5 +1,5 @@
 #!/bin/bash
-#Freebsd WPA1/2 Wifi Cracker Concept (Working)
+#Freebsd WPA1/2 Handshake Grabber Concept (Working)
 ###Functions
 #this will display a banner
 f_banner(){
